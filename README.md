@@ -4,6 +4,8 @@ Este proyecto es una solución RPA para el proceso de **análisis de productos d
 
 Desarrollado en la plantilla universal propuesta por PIX para un manejo corporativo del proceso, el diseño de cada módulo cuenta con flujos robustos en donde se tiene en cuenta reintentos y manejo de errores.  
 
+En la carpeta de Video y Evidencias se puede encontrar material audiovisual para la validación de la automatización.
+
 ## Funcionalidades Generales
 
 El proyecto cuenta con diferentes archivos .pix los cuales permiten un funcionamiento modular de la automatización, a continuación se presentan cada uno de estos con su respectiva descripción:
