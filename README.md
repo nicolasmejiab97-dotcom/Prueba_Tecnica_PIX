@@ -114,6 +114,7 @@ Cualquier situación anormal comunicarse con el desarrollador.
 
 ### 2. PostgreSQL como base de datos
 El RPA utiliza los parámetros de PostgreSQL para todo tipo de manejo de información, por lo que es mandatorio contar con el sistema de gestión indicado.
+Se debe editar en el config los registros str_ConnectionConfig y str_GenericConnectionConfig con los datos de conexión propios (Server, Port, Database, Uid, Pwd).
 
 ### 3. Clonar repositorio
 El proyecto está almacenado en **GitHub**; para clonarlo ejecuta en el CMD:
